@@ -1,0 +1,22 @@
+{
+    "version": "0.0.0-alpha.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.0/osv_windows_amd64.zip",
+            "bin": [
+                "osv.exe"
+            ],
+            "hash": "408e4425ef898c19179cc6c25365f63c5006c7c646edb7e8836ccb6a8738118c"
+        },
+        "arm64": {
+            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.0/osv_windows_arm64.zip",
+            "bin": [
+                "osv.exe"
+            ],
+            "hash": "4ec67a8f65ce05f9436fd151e6ada23a5464e4bf36360ddd9688adc4d7ab9af9"
+        }
+    },
+    "homepage": "https://github.com/frostyeti/osv",
+    "license": "MIT",
+    "description": "A cli to interact with operating system vaults."
+}
