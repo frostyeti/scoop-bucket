@@ -1,19 +1,19 @@
 {
-    "version": "0.0.0-alpha.0",
+    "version": "0.0.0-alpha.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.0/osv_windows_amd64.zip",
+            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.1/osv_windows_amd64.zip",
             "bin": [
                 "osv.exe"
             ],
-            "hash": "408e4425ef898c19179cc6c25365f63c5006c7c646edb7e8836ccb6a8738118c"
+            "hash": "6ef3d1344bf9756b44c82f040da03e033b4ba958668941de59272916e3d57bd8"
         },
         "arm64": {
-            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.0/osv_windows_arm64.zip",
+            "url": "https://github.com/frostyeti/osv/releases/download/v0.0.0-alpha.1/osv_windows_arm64.zip",
             "bin": [
                 "osv.exe"
             ],
-            "hash": "4ec67a8f65ce05f9436fd151e6ada23a5464e4bf36360ddd9688adc4d7ab9af9"
+            "hash": "ff49dd31d4825ea38ecc88dad6061f7147331d66e0be02a88cc76e5ee311c2c8"
         }
     },
     "homepage": "https://github.com/frostyeti/osv",
